@@ -1,0 +1,39 @@
+The AI Job Screener is a full-stack web application designed to help job seekers evaluate how well their resume matches a specific job description. 
+Users upload both files, and the application uses the OpenAI GPT model to analyze and return detailed feedback on compatibility, strengths, and areas for improvement. 
+This helps users better tailor their applications to increase their chances of getting interviews.
+
+Technologies Used
+
+Frontend:
+React – for building the user interface
+
+React Router – for client-side routing
+
+Axios – for API requests
+
+CSS – for basic styling
+
+
+Backend:
+Node.js + Express – for the server and API handling
+
+Multer – for handling file uploads
+
+OpenAI API – for generating resume feedback
+
+dotenv – for managing environment variables
+
+Deployment:
+Vercel – deployed the frontend
+link - https://vercel.com/salmachowdhuryy06-gmailcoms-projects/ai-job-screener 
+
+I learned how to integrate file upload functionality in both React and Express.
+
+I got hands-on experience using the OpenAI API to process user-generated content.
+
+I gained experience deploying a full-stack application, with the frontend on Vercel.
+
+I practiced real-world Git usage, including branching, committing often, and writing clear messages.
+
+I used ChatGPT to help me debug issues, write API logic, refine React code, and write documentation like this README.
+
